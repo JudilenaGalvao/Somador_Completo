@@ -1,0 +1,204 @@
+$comment
+	File created using the following command:
+		vcd file SomadorCompleto.msim.vcd -direction
+$end
+$date
+	Wed Jun 07 14:54:55 2023
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module SomadorCompleto_vlg_vec_tst $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # Te $end
+$var wire 1 $ s $end
+$var wire 1 % Ts $end
+$var wire 1 & sampler $end
+$scope module i1 $end
+$var wire 1 ' gnd $end
+$var wire 1 ( vcc $end
+$var wire 1 ) unknown $end
+$var tri1 1 * devclrn $end
+$var tri1 1 + devpor $end
+$var tri1 1 , devoe $end
+$var wire 1 - a~combout $end
+$var wire 1 . b~combout $end
+$var wire 1 / Te~combout $end
+$var wire 1 0 s~0_combout $end
+$var wire 1 1 Ts~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+x&
+0'
+1(
+x)
+1*
+1+
+1,
+0-
+0.
+0/
+00
+01
+$end
+#5000
+1"
+1.
+0&
+10
+1$
+#10000
+1!
+0"
+1-
+0.
+1&
+#15000
+1"
+1.
+0&
+11
+00
+1%
+0$
+#20000
+1#
+0!
+0"
+1/
+0-
+0.
+1&
+01
+10
+0%
+1$
+#25000
+1"
+1.
+0&
+11
+00
+1%
+0$
+#30000
+1!
+0"
+1-
+0.
+1&
+#35000
+1"
+1.
+0&
+10
+1$
+#40000
+0#
+0!
+0"
+0/
+0-
+0.
+1&
+01
+00
+0%
+0$
+#45000
+1"
+1.
+0&
+10
+1$
+#50000
+1!
+0"
+1-
+0.
+1&
+#55000
+1"
+1.
+0&
+11
+00
+1%
+0$
+#60000
+1#
+0!
+0"
+1/
+0-
+0.
+1&
+01
+10
+0%
+1$
+#65000
+1"
+1.
+0&
+11
+00
+1%
+0$
+#70000
+1!
+0"
+1-
+0.
+1&
+#75000
+1"
+1.
+0&
+10
+1$
+#80000
+0#
+0!
+0"
+0/
+0-
+0.
+1&
+01
+00
+0%
+0$
+#85000
+1"
+1.
+0&
+10
+1$
+#90000
+1!
+0"
+1-
+0.
+1&
+#95000
+1"
+1.
+0&
+11
+00
+1%
+0$
+#100000

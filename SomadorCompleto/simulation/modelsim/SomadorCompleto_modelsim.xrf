@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Aluno/Documents/SomadorCompleto/SomadorCompleto.vhd
+source_file = 1, C:/Users/Aluno/Documents/SomadorCompleto/Waveform.vwf
+source_file = 1, C:/Users/Aluno/Documents/SomadorCompleto/db/SomadorCompleto.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = SomadorCompleto
+instance = comp, \a~I , a, SomadorCompleto, 1
+instance = comp, \b~I , b, SomadorCompleto, 1
+instance = comp, \Te~I , Te, SomadorCompleto, 1
+instance = comp, \s~0 , s~0, SomadorCompleto, 1
+instance = comp, \Ts~0 , Ts~0, SomadorCompleto, 1
+instance = comp, \s~I , s, SomadorCompleto, 1
+instance = comp, \Ts~I , Ts, SomadorCompleto, 1
